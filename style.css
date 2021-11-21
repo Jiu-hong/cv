@@ -102,8 +102,12 @@ body {
   color: #03a9f4;
 }
 
-.contactInfo ul li span,
-a {
+.contactInfo ul li span {
+  color: #fff;
+  font-weight: 300;
+}
+
+.contactInfo ul li span a {
   color: #fff;
   font-weight: 300;
 }
